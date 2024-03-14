@@ -11,7 +11,7 @@ You may also see any lint errors in the console.
 
 ### `username and password`
 
-Username: admin
+Username: admin \
 Password: password
 
 ### `npm test`
