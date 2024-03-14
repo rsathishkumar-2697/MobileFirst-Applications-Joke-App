@@ -9,6 +9,11 @@ Open [https://phenomenal-phoenix-8b14eb.netlify.app](https://phenomenal-phoenix-
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `username and password`
+
+Username: admin
+Password: password
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
